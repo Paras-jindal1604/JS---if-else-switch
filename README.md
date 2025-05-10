@@ -7,13 +7,13 @@ Understanding these conditionals is fundamental to making decisions in your Java
 
 ## 📌 Table of Contents
 
-1. [Introduction to Conditionals](#1-introduction-to-conditionals)
-2. [if Statement](#2-if-statement)
-3. [if-else Statement](#3-if-else-statement)
-4. [if-else if-else Chain](#4-if-else-if-else-chain)
-5. [switch Statement](#5-switch-statement)
-6. [Comparison: if-else vs switch](#6-comparison-if-else-vs-switch)
-7. [Best Practices](#7-best-practices)
+1. Introduction to Conditionals
+2. if Statement
+3. if-else Statement
+4. if-else if-else Chain
+5. switch Statement
+6. Comparison: if-else vs switch
+7. Best Practices
 
 ---
 
